@@ -29,7 +29,7 @@ No other people contributed to this project.
 
 ## License
 
-This project uses a The Unlicense license.
+This project uses the MIT License
 
 ## How to Contribute
 
